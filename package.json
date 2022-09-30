@@ -16,5 +16,8 @@
     "url": "https://github.com/rpruiz33/prueba-js2/issues"
   },
   "homepage": "https://github.com/rpruiz33/prueba-js2#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "bcryptjs": "^2.4.3"
+  }
 }
